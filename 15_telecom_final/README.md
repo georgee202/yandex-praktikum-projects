@@ -31,4 +31,4 @@
 
 Jupyter Notebook
 
-Python - pandas, numpy, matplotlib, keras, tensorflow
+Python - pandas, numpy, matplotlib, seaborn, phik, sklearn, xgboost, catboost
